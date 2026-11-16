@@ -1,0 +1,98 @@
+record_no,query_id,source,search_string,date_searched,title,year,decision,reason,ref_no
+1,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,Stuxnet: Dissecting a cyberwarfare weapon,2011,included,,4
+2,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,"The ""Stuxnet"" virus of 2010 as an example of an ""APT"" and its ""recent"" variances",2018,excluded at full text,full text not available,
+3,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,10 years since Stuxnet: What have we learned from this mysterious computer software worm?,2021,included,,17
+4,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,Stuxnet worm impact on industrial cyber-physical system security,2011,included,,9
+5,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,A systems theoretic approach to the security threats in cyber physical systems applied to Stuxnet,2018,included,,19
+6,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,SWAM: Stuxnet worm analysis in Metasploit,2011,excluded at full text,full text not available,
+7,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,An impact-aware defense against Stuxnet,2013,excluded at full text,full text not available,
+8,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,IEEE Access author manuscript on ICS incidents (document 9638617),2021,excluded at full text,full text not available,
+9,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,Cyber security of networked critical infrastructures [Guest editorial],2012,excluded at screening,editorial,
+10,Q1,IEEE Xplore (site-restricted),"""Stuxnet""",16 Nov 2026,The Middle East under malware attack: Dissecting cyber weapons,2013,included,,15
+11,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Stuxnet - an overview (ScienceDirect topic page),,excluded at screening,not a scholarly work,
+12,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Design of a mathematical model for the Stuxnet virus in a network of critical control infrastructure,2019,excluded at full text,full text not available,
+13,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Computer worms - an overview (ScienceDirect topic page),,excluded at screening,not a scholarly work,
+14,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Fractional mathematical modeling of the Stuxnet virus along with an optimal control problem,2023,included,,22
+15,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Experimental assessment of network design approaches for protecting industrial control systems,2015,excluded at screening,Stuxnet mentioned only in passing,
+16,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Anomaly detection in industrial autonomous decentralized system based on time series,2016,excluded at full text,full text not available,
+17,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Firmware modification attacks on programmable logic controllers,2013,excluded at screening,Stuxnet mentioned only in passing,
+18,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Intrusion detection for resource-constrained embedded control systems in the power grid,2012,excluded at screening,Stuxnet mentioned only in passing,
+19,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,"Analyzing ICS security: A survey of design principles, risks, threats, and mitigation methods",2026,included,,7
+20,Q2,ScienceDirect (site-restricted),"""Stuxnet"" AND ""industrial control system""",16 Nov 2026,Embedded systems security (book),2012,excluded at screening,Stuxnet mentioned only in passing,
+21,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,Machine learning in industrial control system (ICS) security,2023,included,,6
+22,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,The use of autonomous cyber capabilities in armed conflict: Legal appraisal from a targeting law perspective,2026,excluded at full text,full text not available,
+23,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,Destructive malwares on MITRE ATT&CK tactics for cyber warfare,2024,included,,21
+24,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,"Cybersecurity in cyber-physical power systems: Analyzing vulnerabilities, threats, and control structures",2025,excluded at screening,Stuxnet mentioned only in passing,
+25,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,Emerging cybersecurity challenges,2026,excluded at screening,Stuxnet mentioned only in passing,
+26,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,Cybersecurity and nuclear facilities,2024,excluded at screening,Stuxnet mentioned only in passing,
+27,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,Cyber threats impacting critical infrastructures,2017,excluded at screening,Stuxnet mentioned only in passing,
+28,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,Cybersecurity of critical infrastructure,2019,excluded at screening,Stuxnet mentioned only in passing,
+29,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,Toward a safer tomorrow: Cybersecurity and critical infrastructure,2016,excluded at screening,Stuxnet mentioned only in passing,
+30,Q3,SpringerLink (site-restricted),"""Stuxnet"" AND ""cyber attack""",16 Nov 2026,A survey on malware attacks in industrial air-gap systems,2025,included,,25
+31,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Your control host intrusion left some physical breadcrumbs,2025,included,,33
+32,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Through the eye of the PLC: Semantic security monitoring for industrial processes,2014,excluded at full text,Stuxnet mentioned only in passing,
+33,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Goosewolf: An embedded intrusion detection system for advanced PLCs,2023,included,,10
+34,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Detection and analysis technique for manipulation attacks on PLC control logic,2021,excluded at full text,Stuxnet mentioned only in passing,
+35,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Process-aware cyberattacks for thermal desalination plants,2019,excluded at full text,Stuxnet mentioned only in passing,
+36,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Industrial control systems security via runtime enforcement,2023,included,,31
+37,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Industry 4.0-based critical infrastructure and the NIS Directive,2022,excluded at screening,Stuxnet mentioned only in passing,
+38,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,REMaQE: Reverse engineering math equations from executables,2024,excluded at screening,Stuxnet mentioned only in passing,
+39,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Recovery from adversarial attacks in cyber-physical systems,2024,excluded at screening,Stuxnet mentioned only in passing,
+40,Q4,ACM Digital Library (site-restricted),"""Stuxnet"" AND PLC AND attack",16 Nov 2026,Understanding indicators of compromise against cyber-attacks in ICS,2023,included,,32
+41,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,Security challenges in Industry 4.0 PLC systems,2021,included,,24
+42,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,"Impact, vulnerabilities, and mitigation strategies for cyber-secure critical infrastructure",2023,included,,26
+43,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,Cyber-attacks on energy infrastructure: A literature overview,2025,included,,27
+44,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,CS measures for nuclear power plant protection: A systematic literature review,2021,excluded at full text,Stuxnet mentioned only in passing,
+45,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,Analysis of ICS and SCADA systems attacks using honeypots,2023,excluded at screening,Stuxnet mentioned only in passing,
+46,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,Developing resilient cyber-physical systems: A review of malware detection approaches,2023,included,,29
+47,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,Evolving maturity models for electric power system cybersecurity,2026,excluded at screening,Stuxnet mentioned only in passing,
+48,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,Understanding and classifying permanent denial-of-service attacks,2024,excluded at screening,Stuxnet mentioned only in passing,
+49,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,AE3GIS: An agile emulated educational environment for guided industrial security training,2026,excluded at screening,Stuxnet mentioned only in passing,
+50,Q5,MDPI (site-restricted),"""Stuxnet""",16 Nov 2026,Cybersecurity and resilience of smart grids: A review,2026,excluded at screening,Stuxnet mentioned only in passing,
+51,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,An in-depth analysis of a nation-sponsored attack: Case study and cybersecurity insights,2024,excluded at screening,Stuxnet mentioned only in passing,
+52,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,The first step towards modeling unbreakable malware,2020,excluded at screening,Stuxnet mentioned only in passing,
+53,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,The first step towards modeling unbreakable malware (second listing),2020,duplicate,,
+54,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,Improving ICS cyber resilience through optimal diversification of network resources,2018,excluded at full text,Stuxnet mentioned only in passing,
+55,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,ICSLure: A very high interaction honeynet for PLC-based industrial control,2025,excluded at screening,Stuxnet mentioned only in passing,
+56,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,A survey on industrial control system testbeds and datasets for security research,2021,included,,30
+57,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,A survey on ICS testbeds and datasets (second listing),2021,duplicate,,
+58,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,Coding malware in fancy programming languages for fun and profit,2025,excluded at screening,Stuxnet mentioned only in passing,
+59,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,Improving ICS cyber resilience through optimal diversification (second listing),2018,duplicate,,
+60,Q6,arXiv (site-restricted),"""Stuxnet""",16 Nov 2026,AIR-FI: Generating covert Wi-Fi signals from air-gapped computers,2020,excluded at screening,Stuxnet mentioned only in passing,
+61,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,Stuxnet revisited: From cyber warfare to secret statecraft,2025,included,,14
+62,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,Stuxnet and the limits of cyber warfare,2013,included,,8
+63,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,"Stuxnet, revisited (again): Producing the strategic relevance of cyber operations",2025,included,,12
+64,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,Stuxnet and the future of cyber war,2011,included,,2
+65,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,"Stuxnet, revisited (again) (PDF listing)",2025,duplicate,,
+66,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,Cyber-weapons,2012,included,,34
+67,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,Is Stuxnet physical? Does it matter?,2013,included,,36
+68,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,Revisiting past cyber operations in light of new cyber norms and interpretations of international law,2022,included,,13
+69,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,Assembling cybersecurity: The politics and materiality of technical malware reports and the case of Stuxnet,2020,included,,18
+70,Q7,Taylor & Francis Online (site-restricted),"""Stuxnet"" AND ""cyber warfare""",16 Nov 2026,The rise of responsible behavior: Western commercial reports on Western cyber threat actors,2025,included,,37
+71,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,DTIC research paper applying jus ad bellum principles to Stuxnet (AD1018827),,excluded at full text,not peer reviewed,
+72,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,Stuxnet and international law on the use of force: An informational approach,2018,excluded at full text,full text not available,
+73,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,"Stuxnet, 'Schmitt analysis,' and the cyber 'use of force' debate (Air War College report, AD1018135)",2012,excluded at full text,earlier version of an included work,
+74,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,"The law of cyber warfare: Restrictions, opportunities and loopholes",2012,excluded at full text,Stuxnet mentioned only in passing,
+75,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,Could deploying Stuxnet be a war crime? (blog post),2011,excluded at screening,not a scholarly work,
+76,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,The next battlefield is in cyberspace: Evaluating cyberattacks under Article 51 (blog post),,excluded at screening,not a scholarly work,
+77,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,Did Stuxnet breach the UN Charter's principles? (blog post),2012,excluded at screening,not a scholarly work,
+78,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,The next battlefield is in cyberspace (second listing),,duplicate,,
+79,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,Stuxnet an act of force against Iran (blog post),2013,excluded at screening,not a scholarly work,
+80,Q8,Open web search,"""Stuxnet"" AND (""international law"" OR ""use of force"") AND ""Article 2(4)""",16 Nov 2026,"Stuxnet, Schmitt analysis, and the cyber use-of-force debate (JFQ)",2012,included,,35
+81,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,Detecting Stuxnet-style attacks (tool listing page),,excluded at screening,not a scholarly work,
+82,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,Detecting control system misbehavior by fingerprinting PLC functionality,2020,excluded at screening,Stuxnet mentioned only in passing,
+83,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,Control logic injection attacks on industrial control systems (Springer chapter),2019,excluded at full text,Stuxnet mentioned only in passing,
+84,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,PCaaD: Towards automated determination and exploitation of industrial processes,2021,excluded at screening,Stuxnet mentioned only in passing,
+85,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,Ladder logic bombs in industrial control systems,2018,excluded at full text,Stuxnet mentioned only in passing,
+86,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,Detection and analysis technique for manipulation attacks on PLC control logic (second listing),2021,duplicate,,
+87,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,PLC forensics based on control program logic change detection,2015,excluded at screening,Stuxnet mentioned only in passing,
+88,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,SoK: Attacks on industrial control logic and formal verification-based defenses,2021,included,,23
+89,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,Command analysis-based intrusion detection (conference slides),,excluded at screening,not a scholarly work,
+90,Q9,Open web search,"(""Stuxnet-like"" OR ""Stuxnet"") AND PLC AND ""control logic"" AND detection",16 Nov 2026,Detecting Stuxnet-style attacks (skill search listing),,excluded at screening,not a scholarly work,
+91,Q10,Known-item searches and citation chasing,Primary technical reports and works cited by included papers,16 Nov 2026,W32.Stuxnet dossier,2011,included,,3
+92,Q10,Known-item searches and citation chasing,Primary technical reports and works cited by included papers,16 Nov 2026,Stuxnet 0.5: The missing link,2013,included,,20
+93,Q10,Known-item searches and citation chasing,Primary technical reports and works cited by included papers,16 Nov 2026,To kill a centrifuge,2013,included,,5
+94,Q10,Known-item searches and citation chasing,Primary technical reports and works cited by included papers,16 Nov 2026,Lessons from Stuxnet,2011,included,,1
+95,Q10,Known-item searches and citation chasing,Primary technical reports and works cited by included papers,16 Nov 2026,Stuxnet: What has changed?,2012,included,,11
+96,Q10,Known-item searches and citation chasing,Primary technical reports and works cited by included papers,16 Nov 2026,Stuxnet: The emergence of a new cyber weapon and its implications,2012,included,,16
+97,Q10,Known-item searches and citation chasing,Primary technical reports and works cited by included papers,16 Nov 2026,Machine learning for intrusion detection in industrial control systems,2022,included,,28
